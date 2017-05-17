@@ -1,0 +1,45 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Agila Theme",
+		"ayu",
+		"Babel",
+		"BEMHTML",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"GitSavvy",
+		"Grunt",
+		"Gulp",
+		"Jekyll",
+		"JS Snippets",
+		"JsFormat",
+		"JSONLint",
+		"Laravel Blade Highlighter",
+		"LoremIpsum",
+		"Markdown Preview",
+		"Markdown Slideshow",
+		"Material Theme",
+		"Oceanic Color Scheme",
+		"Package Control",
+		"PhpDoc",
+		"Random Everything",
+		"React Templates",
+		"ReactJS",
+		"Sass",
+		"SFTP",
+		"SideBarEnhancements",
+		"Skins",
+		"SublimeLinter",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-csslint"
+	]
+}
