@@ -15,13 +15,15 @@
 		"*.tga",
 		"*.ttf",
 		"*.zip",
+		"build/**",
+		"dist/**",
 		".sass-cache/**",
 		"node_modules/**",
 		"vendor/**",
 		"vendor"
 	],
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/ayu/ayu-light.tmTheme",
+	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
 	"font_options":
 	[
 		"subpixel_antialias"
@@ -53,8 +55,8 @@
 		100,
 		120
 	],
-	"skin": "ayu/ayu light",
-	"theme": "ayu-light.sublime-theme",
+	"skin": "ayu/ayu mirage",
+	"theme": "ayu-mirage.sublime-theme",
 	"ui_big_tabs": true,
 	"ui_fix_tab_labels": true,
 	"ui_font_size_small": true,
