@@ -23,12 +23,13 @@
 		"vendor"
 	],
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/ayu/ayu-mirage.tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"font_face": "Monaco",
 	"font_options":
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 14,
+	"font_size": 12,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -42,8 +43,19 @@
 	],
 	"line_padding_bottom": 3,
 	"line_padding_top": 3,
-	"material_theme_accent_cyan": true,
-	"material_theme_accent_yellow": true,
+	"material_theme_accent_lime": false,
+	"material_theme_accent_scrollbars": false,
+	"material_theme_accent_yellow": false,
+	"material_theme_appbar_blue": false,
+	"material_theme_appbar_charcoal": false,
+	"material_theme_appbar_cyan": false,
+	"material_theme_appbar_indigo": false,
+	"material_theme_appbar_lime": false,
+	"material_theme_appbar_orange": false,
+	"material_theme_appbar_pink": false,
+	"material_theme_appbar_purple": false,
+	"material_theme_appbar_red": false,
+	"material_theme_appbar_yellow": false,
 	"material_theme_bright_scrollbars": true,
 	"material_theme_compact_sidebar": true,
 	"material_theme_panel_separator": true,
@@ -55,8 +67,8 @@
 		100,
 		120
 	],
-	"skin": "ayu/ayu mirage",
-	"theme": "ayu-mirage.sublime-theme",
+	"skin": "Material Theme/Material Theme - Darker",
+	"theme": "Material-Theme.sublime-theme",
 	"ui_big_tabs": true,
 	"ui_fix_tab_labels": true,
 	"ui_font_size_small": true,
