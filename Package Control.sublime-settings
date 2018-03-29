@@ -16,7 +16,6 @@
 		"DocBlockr",
 		"EditorConfig",
 		"Emmet",
-		"ESLint-Formatter",
 		"Flow",
 		"GitSavvy",
 		"Grunt",
@@ -44,8 +43,8 @@
 		"SideBarEnhancements",
 		"Skins",
 		"SublimeLinter",
-		"SublimeLinter-contrib-eslint",
 		"SublimeLinter-contrib-scss-lint",
-		"SublimeLinter-csslint"
+		"SublimeLinter-csslint",
+		"SublimeLinter-eslint"
 	]
 }
