@@ -1107,11 +1107,11 @@ a {
     <key>settings</key>
     <dict>
 
-        <key>foreground</key>
-        <string>#F9F9F4</string>
-
         <key>background</key>
         <string>#37A832</string>
+
+        <key>foreground</key>
+        <string>#F9F9F4</string>
 
     </dict>
 </dict><dict>
@@ -1122,11 +1122,11 @@ a {
     <key>settings</key>
     <dict>
 
-        <key>foreground</key>
-        <string>#F9F9F4</string>
-
         <key>background</key>
         <string>#A83732</string>
+
+        <key>foreground</key>
+        <string>#F9F9F4</string>
 
     </dict>
 </dict><dict>
@@ -1137,11 +1137,11 @@ a {
     <key>settings</key>
     <dict>
 
-        <key>foreground</key>
-        <string>#F9F9F4</string>
-
         <key>background</key>
         <string>#287020</string>
+
+        <key>foreground</key>
+        <string>#F9F9F4</string>
 
     </dict>
 </dict><dict>
@@ -1152,11 +1152,11 @@ a {
     <key>settings</key>
     <dict>
 
-        <key>foreground</key>
-        <string>#F9F9F4</string>
-
         <key>background</key>
         <string>#702820</string>
+
+        <key>foreground</key>
+        <string>#F9F9F4</string>
 
     </dict>
 </dict></array>
